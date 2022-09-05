@@ -1,0 +1,6 @@
+# デフォルトの無視対象ファイル
+/shelf/
+/workspace.xml
+dbnavigator.xml
+misc.xml
+modules.xml
